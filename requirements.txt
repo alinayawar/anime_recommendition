@@ -1,0 +1,14 @@
+pandas
+numpy
+setuptools
+google-cloud-storage
+pyyaml
+tensorflow
+comet-ml
+dvc
+dvc-gs
+flask
+joblib
+
+# C:\Users\hp\Downloads\flowing-tooling-349805-0dfa3b1161f0.json
+# set GOOGLE_APPLICATION_CREDENTIALS=C:\Users\hp\Downloads\flowing-tooling-349805-0dfa3b1161f0.json
