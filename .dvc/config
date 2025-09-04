@@ -1,0 +1,7 @@
+[core]
+    remote = myremotee
+['remote "myremote"']
+    url = gs://gcp-bucket-mlopp2
+    credentialpath = C:\Users\hp\Downloads\flowing-tooling-349805-a6c2faab1fe7.json
+['remote "myremotee"']
+    url = gs://gcp-bucket-mlopp2
